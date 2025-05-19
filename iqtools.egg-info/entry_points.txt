@@ -1,0 +1,3 @@
+[console_scripts]
+iqgui = iqgui.__main__:main
+iqtools = iqtools.__main__:main
